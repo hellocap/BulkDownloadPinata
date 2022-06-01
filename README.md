@@ -1,2 +1,2 @@
 # Bulk Download Pinata & JPEG Conversion
-Downloading programmatically images from and converting to JPEG using Python
+Downloading programmatically images from Pinata and converting PNGs to JPEGs using Python
